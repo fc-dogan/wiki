@@ -11,7 +11,14 @@
     display: block;
 }
 
-#list1{
-    
-    
+#reed {
+    float: left;
+    height: 150px;
+    width: 200px;
+}
+
+#aircraft{
+    float: right;
+    height: 150px;
+    width: 200px;
 }
